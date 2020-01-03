@@ -1,0 +1,22 @@
+body {
+  background-image: url("sexyback.jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+  background-position: center; 
+  background-size: cover;
+}
+div { 
+	padding:150px;
+ }
+h2 {
+	color: #8D4A66;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 50px;
+	background-color: white;
+}
+h1 {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 85px;
+	background-color: white;
+	color: #8D4A66;
+}
