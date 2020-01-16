@@ -1,8 +1,7 @@
 body {
   background-image: url("sexyback.jpg");
   background-repeat: no-repeat;
-  height: 100%;
-  background-position: center; 
+  height: 100%; 
   background-size: cover;
 }
 div { 
