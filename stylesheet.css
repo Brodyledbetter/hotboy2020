@@ -17,7 +17,7 @@ h1 {
 	display: inline;
 	font-family: 'Noto Sans JP', sans-serif;
 	font-size: 85px;
-	RGBA(255, 255, 255, 0.6);
+	background-color: RGBA(255, 255, 255, 0.6);
 	color: #8D4A66;
 	padding: 0 10px;
 }
